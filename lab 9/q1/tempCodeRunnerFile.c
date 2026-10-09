@@ -1,0 +1,2 @@
+
+    double density[MAX], temp;
